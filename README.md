@@ -1,7 +1,10 @@
 # Cubezo-Gravity
 
-This Project gives Gravity effect to image and text (On Web Page)
+This Project gives Gravity effect to image and text (On Web Page).
 
+Detailed information is available on [storage-file](https://storage-file.vercel.app/).
+
+Also [scanned document](https://storage-file.vercel.app/file.pdf) of the this theory is available for reference.
 This Project can be used in 'Loading WebPages' ,Games or it can be used as a simple Fun-Game Website.The Very popular example of Such website Effect is '**Google Gravity**'.
 
 
